@@ -1,2 +1,2 @@
-# vgg19-style-transfer
-Neural Style Transfer using VGG19 in TensorFlow — blend the content of one image with the artistic style of another.
+# 🎨 VGG19 Style Transfer
+This project implements Neural Style Transfer using a pre-trained **VGG19** model in TensorFlow. It allows you to blend the **content** of one image with the **style** of another, producing artistic and expressive results.
